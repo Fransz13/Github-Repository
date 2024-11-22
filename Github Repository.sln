@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Github Repository", "Github
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Conditionals", "Conditionals\Conditionals.vcxproj", "{C73A178A-3FF1-4460-89EA-389CE8BC16D5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Conditionals 123", "Conditionals 123\Conditionals 123.vcxproj", "{F605D31D-1EB8-4489-93BC-2E19765D7D20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{C73A178A-3FF1-4460-89EA-389CE8BC16D5}.Release|x64.Build.0 = Release|x64
 		{C73A178A-3FF1-4460-89EA-389CE8BC16D5}.Release|x86.ActiveCfg = Release|Win32
 		{C73A178A-3FF1-4460-89EA-389CE8BC16D5}.Release|x86.Build.0 = Release|Win32
+		{F605D31D-1EB8-4489-93BC-2E19765D7D20}.Debug|x64.ActiveCfg = Debug|x64
+		{F605D31D-1EB8-4489-93BC-2E19765D7D20}.Debug|x64.Build.0 = Debug|x64
+		{F605D31D-1EB8-4489-93BC-2E19765D7D20}.Debug|x86.ActiveCfg = Debug|Win32
+		{F605D31D-1EB8-4489-93BC-2E19765D7D20}.Debug|x86.Build.0 = Debug|Win32
+		{F605D31D-1EB8-4489-93BC-2E19765D7D20}.Release|x64.ActiveCfg = Release|x64
+		{F605D31D-1EB8-4489-93BC-2E19765D7D20}.Release|x64.Build.0 = Release|x64
+		{F605D31D-1EB8-4489-93BC-2E19765D7D20}.Release|x86.ActiveCfg = Release|Win32
+		{F605D31D-1EB8-4489-93BC-2E19765D7D20}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
