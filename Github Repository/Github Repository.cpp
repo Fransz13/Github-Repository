@@ -2,12 +2,19 @@
 //
 
 #include <iostream>
-
-int main()
 using namespace std;
 
+int main()
+
 {
-    std::cout << "Hello World!\n";
+    int number;
+    cout << "Enter number:";
+    cin >> number;
+
+    cout << "You entered:" << number << endl;
+
+     return 0;
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
